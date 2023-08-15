@@ -12,7 +12,7 @@ Presentation -
    Contains the step-by-step Manufacturing process recommended for the Production of the above Model
 
 
-* Please use Adobe Acrobat Reader open the 3D PDFs
+(*) Please use Adobe Acrobat Reader open the 3D PDFs
 
 
 -Acknowledged 
